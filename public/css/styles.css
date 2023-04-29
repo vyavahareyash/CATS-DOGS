@@ -1,0 +1,30 @@
+/* //////////////////////////////////---NAVBAR----////////////////////////////////// */
+
+.header {
+    width: 100%;
+    background-color: #3D155F;
+}
+
+.navbar .navbar-nav .nav-item a {
+    padding: 18px;
+    /* hover: black; */
+}
+
+.navbar .navbar-nav .nav-but a {
+    padding: 5px;
+}
+
+.nav-item dropdown {
+    padding: 2px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+
+/* //////////////////////////////////////////////////////////////////// */
